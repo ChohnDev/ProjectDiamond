@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Maps/Testing_Level.umap",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Blueprints/GM_ProjectDiamond.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Blueprints/BP_FPS_Character.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Core/Inputs/Input_MovementCTRL.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Core/Inputs/IMC_ProjectDiamond.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Core/Inputs/Input_LookaroundCTRL.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Core/BP_Controller.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Core/Inputs/Input_Interact.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Core/Inputs/Input_Jump.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Core/Inputs/Input_Dash.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Core/Inputs/Input_Crouch.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Blueprints/Headbob/IdleHeadbob.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Blueprints/Headbob/WalkHeadbob.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Materials/M_SprintEffect.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Materials/NS_SprintEffect.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Materials/NS_DashEffect.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Materials/WallMaterial.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Blueprints/BP_WallForRunning.uasset",
+				"C:/Users/Chohn/Documents/Unreal Projects/ProjectDiamond/Content/Materials/BoxMaterial.uasset"
+			]
+		}
+	]
+}
