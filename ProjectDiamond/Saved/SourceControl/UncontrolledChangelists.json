@@ -9,11 +9,23 @@
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/WB_FPChacter.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/Testing_Level.umap",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_Checkpoint.uasset",
-				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/WB_DeathScreen.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/TeleportZone.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/SpeedRuntimer.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/FinishLine.uasset",
-				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/EndScreen.uasset"
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/EndScreen.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/Project_Diamond_Test.umap",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/TEST.umap",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/_GENERATED/Chohn/CubeGridToolOutput_1EAC4E54.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/_GENERATED/Chohn/CubeGridToolOutput_4CB301E0.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/_GENERATED/Chohn/CubeGridToolOutput_C88CFF9C.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/_GENERATED/Chohn/CubeGridToolOutput_70B629A6.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/_GENERATED/Chohn/CubeGridToolOutput_5BE2CF5F.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_ProjectileBullet.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Core/Inputs/Input_Shoot.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Core/Inputs/IMC_ProjectDiamond.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_SpiderEnemy.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_EnemyProjectile.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/WB_DeathScreen.uasset"
 			]
 		}
 	]
