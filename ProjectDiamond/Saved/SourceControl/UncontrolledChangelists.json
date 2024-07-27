@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/sabrinacello/Desktop/GAME DESIGN/Game Lab_1/ProjectDiamond/ProjectDiamond/Content/Maps/Testing_Level.umap",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_FPS_Character.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/WB_FPChacter.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/Testing_Level.umap",
@@ -26,6 +25,14 @@
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Core/Inputs/IMC_ProjectDiamond.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_SpiderEnemy.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_EnemyProjectile.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/ImportedAssets/Crosshair.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/WB_FPSHUD.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/ImportedAssets/icons8-location-off-96.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/ImportedAssets/icons8-ellipsis-96.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/ImportedAssets/icons8-location-off-100.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/ImportedAssets/icons8-x-80.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/ImportedAssets/icons8-target-96.uasset",
+				"/Users/sabrinacello/Desktop/GAME DESIGN/Game Lab_1/ProjectDiamond/ProjectDiamond/Content/Maps/Testing_Level.umap",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/WB_DeathScreen.uasset"
 			]
 		}
