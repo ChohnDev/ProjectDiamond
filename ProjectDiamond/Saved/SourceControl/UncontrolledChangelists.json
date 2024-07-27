@@ -8,7 +8,12 @@
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_FPS_Character.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/WB_FPChacter.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/Testing_Level.umap",
-				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_Checkpoint.uasset"
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_Checkpoint.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/WB_DeathScreen.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/TeleportZone.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/SpeedRuntimer.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/FinishLine.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/EndScreen.uasset"
 			]
 		}
 	]
