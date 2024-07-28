@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"/Users/sabrinacello/Desktop/GAME DESIGN/Game Lab_1/ProjectDiamond/ProjectDiamond/Content/Maps/Testing_Level.umap",
 				"/Users/sabrinacello/Desktop/GAME DESIGN/Game Lab_1/ProjectDiamond/ProjectDiamond/Content/Maps/Greymesh_lvl.umap",
 				"/Users/sabrinacello/Desktop/GAME DESIGN/Game Lab_1/ProjectDiamond/ProjectDiamond/Content/Maps/_GENERATED/sabrinacello/Box_A679C11F.uasset",
@@ -64,6 +65,12 @@
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_SpiderEnemy.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_EnemyProjectile.uasset",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/UI/WB_DeathScreen.uasset"
+=======
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/GM_ProjectDiamond.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_DoubleDoor.uasset",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/Testing_Level.umap",
+				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_SingleDoor.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
