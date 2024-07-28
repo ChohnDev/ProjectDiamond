@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ProjectDiamond/Saved/Logs/ProjectDiamond.log
+ProjectDiamond/Saved/Telemetry/Telemetry.json
+ProjectDiamond/Saved/Logs/ProjectDiamond.log
+ProjectDiamond/Saved/Logs/cef3.log
