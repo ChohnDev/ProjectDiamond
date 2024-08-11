@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Engine Creations/ProjectDiamond/ProjectDiamond/Content/Assets/Enemies/Spiderbot_UpscaledSize.uasset",
+				"D:/Unreal Engine Creations/ProjectDiamond/ProjectDiamond/Content/Maps/Testing_Level.umap",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/Greymesh_lvl.umap",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Maps/Final_GreyMesh_Lvl.umap",
 				"C:/Users/Chohn/Documents/GitHub/ProjectDiamond/ProjectDiamond/Content/Blueprints/BP_TeleportZone.uasset",
